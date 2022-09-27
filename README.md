@@ -4,7 +4,7 @@ When given a list of courses you are interested in taking, this program will fin
 At the moment, this program only works on future terms and can break down if you select an ongoing term.
 vsbClass.py is currently the main file.
 
-#Requirements
+# Requirements
 This program requires the Selenium Chrome Driver to be installed in the same directory as these files to run properly. 
 
 
