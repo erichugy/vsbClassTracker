@@ -4,7 +4,7 @@ When given a list of courses you are interested in taking, this program will fin
 At the moment, this program only works on future terms and can break down if you select an ongoing term.
 vsbClass.py is currently the main file.
 
-#Disclaimer!
+# Disclaimer!
 McGill does not allow you to register for courses using bots. Thus this program cannot and will not in the future help you register for the classes themselves. I would also advise against anyone doing so.
 
 
